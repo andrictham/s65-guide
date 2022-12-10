@@ -17,6 +17,13 @@ aliases:
 > There may also be links to non-existent pages (these will be greyed out, [[like this]])
 
 # Cash and Cash Equivalents
+Also known as “money market securities”.
+
+> [!info] Synonym
+> 
+> Also known as “money market securities”.
+
+See [[notes/securities/cash-equivalents|Cash and Cash Equivalents]]
 
 # Fixed-Income Securities
 See [[notes/securities/bonds|Bonds]]

@@ -47,4 +47,7 @@ I recommend using Pass the 65 for studying these two topics:
 --- 
 # 🗃 Study Guides & Question Banks
 
+If you prefer studying using interactive study guides and question banks, these providers are vetted by the community and have helped folks pass their test:
+
 #### [[notes/resources/kaplan|🗃 Kaplan Series 65 SecuritiesPro™ QBank]]
+#### [[notes/resources/achievable|🗃 Achievable.me]]

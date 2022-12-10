@@ -1,4 +1,4 @@
-baseURL = "https://quartz.jzhao.xyz/"
+baseURL = "https://andrictham.github.io/series-65-guide/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
@@ -7,15 +7,15 @@ ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
 ]
-summaryLength = 20
-paginate = 10
+summaryLength = 30
+paginate = 100
 enableGitInfo = true
 
 [markup]
     [markup.tableOfContents]
         endLevel = 3
         ordered = true
-        startLevel = 2
+        startLevel = 1
     [markup.highlight]
         noClasses = false
         anchorLineNos = false
